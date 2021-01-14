@@ -1,0 +1,8 @@
+.ipnnb_checkpoints
+.vscode
+2
+3
+__pycache__
+res
+*.ipynb
+draw.py
